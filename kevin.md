@@ -1,2 +1,0 @@
-Kevin Canacuan
-Fernando Pasquel
