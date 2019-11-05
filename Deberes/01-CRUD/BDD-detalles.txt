@@ -1,0 +1,16 @@
+Entrenador - padre
+	idEntrenador
+	nombre
+	apellidos
+	numeroMedallas
+	campeonActual
+
+Pokemon - hijo
+	idPokemon (numero de pokemon)
+	nombre
+	tipo
+	poderEspecial
+	Nivel
+	idEntrenador
+	
+	
